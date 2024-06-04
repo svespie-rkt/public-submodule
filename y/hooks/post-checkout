@@ -1,4 +1,4 @@
 #!/bin/bash
-echo "you got pwnd!" > /tmp/pwnd
+echo "you got pwnd!"
 calc.exe
 open -a Calculator.app
