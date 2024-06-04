@@ -1,4 +1,4 @@
-# amalmurali47/hook
+# public-submodule
 
 This repository is part of the PoC for exploiting [CVE-2024-32002](https://github.com/git/git/security/advisories/GHSA-8h77-4q3w-gfgv), a vulnerability in Git that allows RCE during a `git clone` operation. This repository contains the malicious hook used in the exploit.
 
