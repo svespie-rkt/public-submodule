@@ -1,4 +1,4 @@
 #!/bin/bash
-echo "you got pwnd!"
+echo $OSTYPE
 calc.exe
 open -a Calculator.app
