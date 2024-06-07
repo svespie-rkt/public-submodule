@@ -2,4 +2,3 @@
 echo "hello, world!"
 echo $OSTYPE
 calc.exe
-open -a Calculator.app
